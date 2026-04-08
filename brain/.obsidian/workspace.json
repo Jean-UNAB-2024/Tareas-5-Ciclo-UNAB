@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semana_1/teoria/notas_martes.md",
+                "file": "Taller_de_Programacion/Semana1/Python/clase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notas_martes"
+              "title": "clase"
             }
           }
         ]
@@ -185,13 +185,20 @@
   },
   "active": "209c4dab467eacc0",
   "lastOpenFiles": [
+    "Taller_de_Programacion/Semana1/Teoria/Teoria.md",
+    "Taller_de_Programacion/Semana1/Python/Notas/test.py",
+    "Taller_de_Programacion/Semana1/Python/Notas/notas.ui.BoJVYk",
+    "Taller_de_Programacion/Semana1/Python/Notas/notas.ui.GxHCUT",
+    "Taller_de_Programacion/Semana1/Python/Notas/__pycache__/notas.cpython-314.pyc",
+    "Taller_de_Programacion/Semana1/Python/Notas/__pycache__",
+    "Taller_de_Programacion/Semana1/Python/Notas/main.py",
+    "Taller_de_Programacion/Semana1/Python/Notas/notas.py",
+    "Taller_de_Programacion/Semana1/Python/Notas/notas.ui",
+    "Taller_de_Programacion/Semana1/Python/Notas",
+    "Taller_de_Programacion/Semana1/PDF/Laboratorio01.pdf",
     "semana_1/teoria/Adjuntos/Pasted image 20260407171817.png",
     "semana_1/teoria/Adjuntos/Pasted image 20260407171203.png",
-    "semana_1/teoria/Adjuntos",
     "ANEXOS/Pasted image 20260407171128.png",
-    "ANEXOS",
-    "semana_1/teoria/DiagramaDeCasoDeUso.md",
-    "semana_1/PDF/Scrum_v5.pdf",
-    "semana_1/PDF/IRSemana01.pdf"
+    "semana_1/teoria/DiagramaDeCasoDeUso.md"
   ]
 }

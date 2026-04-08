@@ -19,3 +19,8 @@ usas pip freeze > requirements.txt
 
 para volver a instalar usas pip install -r requirements.txt
 
+---
+para convertir el archivo.ui a python se hace lo siguiente:
+pyside6-uic ventana.ui -o ui_ventana.py
+
+La contraseña no se tiene q ver en la base de datos :D

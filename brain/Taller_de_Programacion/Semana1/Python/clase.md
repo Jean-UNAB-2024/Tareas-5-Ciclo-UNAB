@@ -14,7 +14,7 @@ pip install --upgrade pip
 para refrescar
 
 
-para crear un requeriments.txt
+para crear un requirements.txt
 usas pip freeze > requirements.txt
 
 para volver a instalar usas pip install -r requirements.txt

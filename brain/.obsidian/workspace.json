@@ -11,14 +11,10 @@
             "id": "209c4dab467eacc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria_de_Requerimientos/semana_1/tarea/Tarea_3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tarea_3"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -185,23 +181,36 @@
   },
   "active": "209c4dab467eacc0",
   "lastOpenFiles": [
-    "Ingenieria_de_Requerimientos/semana_1/tarea/Adjuntos/Pasted image 20260408195734.png",
-    "Ingenieria_de_Requerimientos/semana_1/tarea/Adjuntos",
-    "Taller_de_Programacion/Semana1/Teoria/Teoria.md",
     "Ingenieria_de_Requerimientos/semana_1/tarea/Tarea_3.md",
-    "Taller_de_Programacion/Silabo_-_ESP08.ISI_-_TALLER_DE_PROGRAMACION.pdf",
+    "Ingenieria_de_Requerimientos/1_Semana/teoria/Adjuntos/Pasted image 20260407171817.png",
+    "Ingenieria_de_Requerimientos/1_Semana/teoria/Adjuntos/Pasted image 20260407171203.png",
+    "Ingenieria_de_Requerimientos/1_Semana/teoria/notas_martes.md",
+    "Ingenieria_de_Requerimientos/1_Semana/teoria/intro_requerimientos.md",
+    "Ingenieria_de_Requerimientos/1_Semana/teoria/diagramaDeClases.md",
+    "Ingenieria_de_Requerimientos/1_Semana/teoria/Adjuntos",
+    "Ingenieria_de_Requerimientos/1_Semana/teoria/DiagramaDeCasoDeUso.md",
+    "Ingenieria_de_Requerimientos/1_Semana/teoria",
+    "Ingenieria_de_Requerimientos/1_Semana/tarea/Adjuntos/Pasted image 20260408195734.png",
+    "Ingenieria_de_Requerimientos/1_Semana/tarea/Tarea_3.md",
+    "Ingenieria_de_Requerimientos/1_Semana/tarea/Tareas_Dia2.md",
+    "Ingenieria_de_Requerimientos/1_Semana/tarea/resumen_Tarea.md",
+    "Ingenieria_de_Requerimientos/1_Semana/tarea/Adjuntos",
+    "Ingenieria_de_Requerimientos/1_Semana/tarea",
+    "Ingenieria_de_Requerimientos/1_Semana/PDF/Scrum_v5.pdf",
+    "Ingenieria_de_Requerimientos/1_Semana/PDF/IRSemana01.pdf",
+    "Ingenieria_de_Requerimientos/1_Semana/PDF",
+    "Ingenieria_de_Requerimientos/1_Semana/img/Captura de pantalla 2026-04-07 165606.png",
+    "Ingenieria_de_Requerimientos/1_Semana/img/I1.png",
+    "Ingenieria_de_Requerimientos/1_Semana/img/diagrama_de_caso_de_uso.png",
+    "Ingenieria_de_Requerimientos/1_Semana/img/Captura de pantalla 2026-04-07 165610.png",
+    "Ingenieria_de_Requerimientos/1_Semana/img",
+    "Electrónica/16_Semana",
+    "Electrónica/15_Semana",
+    "Ingenieria_de_Requerimientos/semana_1/tarea/Adjuntos/Pasted image 20260408195734.png",
+    "Taller_de_Programacion/Semana1/Teoria/Teoria.md",
     "Taller_de_Programacion/Semana1/Python/clase.md",
-    "Taller_de_Programacion/Semana1/Python/Notas/test.py",
-    "Taller_de_Programacion/Semana1/Python/Notas/notas.ui.BoJVYk",
-    "Taller_de_Programacion/Semana1/Python/Notas/notas.ui.GxHCUT",
-    "Taller_de_Programacion/Semana1/Python/Notas/__pycache__/notas.cpython-314.pyc",
-    "Taller_de_Programacion/Semana1/Python/Notas/__pycache__",
-    "Taller_de_Programacion/Semana1/Python/Notas/main.py",
-    "Taller_de_Programacion/Semana1/Python/Notas/notas.py",
-    "Taller_de_Programacion/Semana1/Python/Notas/notas.ui",
     "semana_1/teoria/Adjuntos/Pasted image 20260407171817.png",
     "semana_1/teoria/Adjuntos/Pasted image 20260407171203.png",
-    "ANEXOS/Pasted image 20260407171128.png",
     "semana_1/teoria/DiagramaDeCasoDeUso.md"
   ]
 }

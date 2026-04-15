@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e173c30cc9a78dae",
+        "id": "d95f31bf2b256d17",
         "type": "tabs",
         "children": [
           {
-            "id": "209c4dab467eacc0",
+            "id": "fc7f75e98d5d54ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dinamica_de_Simulacion_de_Sistemas/1_Semana-T/teoria/Resumen_Magistral.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Resumen_Magistral"
             }
           }
         ]
@@ -179,38 +183,53 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "209c4dab467eacc0",
+  "active": "fc7f75e98d5d54ff",
   "lastOpenFiles": [
+    "Administracion_y_Gestion_de_Base_de_Datos/1_Semana-T/tarea/tareas.md",
+    "Administracion_y_Gestion_de_Base_de_Datos/1_Semana-T/PDF/~$PEDIDOS_DESNORMALIZADO.xlsx",
+    "Dinamica_de_Simulacion_de_Sistemas/1_Semana-T/PDF/Tesis-WilliamJhanpierPerezSilva-(100_).docx",
+    "Dinamica_de_Simulacion_de_Sistemas/1_Semana-T/PDF/Tesis-WilliamJhanpierPerezSilva-(100).pdf",
+    "Dinamica_de_Simulacion_de_Sistemas/1_Semana-T/PDF/System Dynamics.pdf",
+    "Dinamica_de_Simulacion_de_Sistemas/1_Semana-T/PDF/sistema_de_transporte_masivo.pdf",
+    "Dinamica_de_Simulacion_de_Sistemas/1_Semana-T/PDF/drive-download-20260413T124521Z-3-001/Tesis-WilliamJhanpierPerezSilva-(100).pdf",
+    "Dinamica_de_Simulacion_de_Sistemas/1_Semana-T/PDF/drive-download-20260413T124521Z-3-001/sistema_de_transporte_masivo.pdf",
+    "Dinamica_de_Simulacion_de_Sistemas/1_Semana-T/PDF/drive-download-20260413T124521Z-3-001/Tesis-WilliamJhanpierPerezSilva-(100_).docx",
+    "Dinamica_de_Simulacion_de_Sistemas/1_Semana-T/PDF/drive-download-20260413T124521Z-3-001/System Dynamics.pdf",
+    "Dinamica_de_Simulacion_de_Sistemas/1_Semana-T/PDF/drive-download-20260413T124521Z-3-001",
+    "Electrónica/1_Semana-T/tarea/Tareas_Dia2.md",
+    "Electrónica/1_Semana-T/img/I1.png",
+    "Electrónica/1_Semana-T/img/diagrama_de_caso_de_uso.png",
+    "Electrónica/1_Semana-T/img/Captura de pantalla 2026-04-07 165610.png",
+    "Electrónica/1_Semana-T/img/Captura de pantalla 2026-04-07 165606.png",
+    "Electrónica/1_Semana-T/teoria/DiagramaDeCasoDeUso.md",
+    "Electrónica/1_Semana-T/tarea/Tarea_3.md",
+    "Electrónica/1_Semana-T/tarea/resumen_Tarea.md",
+    "Ingenieria_de_Requerimientos/1_Semana-T/tarea/Tarea_Principal.md",
+    "Administracion_y_Gestion_de_Base_de_Datos/1_Semana-T/teoria/Adjuntos/Pasted image 20260407171203.png",
+    "Administracion_y_Gestion_de_Base_de_Datos/1_Semana-T/teoria/Adjuntos/Pasted image 20260407171817.png",
+    "Administracion_y_Gestion_de_Base_de_Datos/1_Semana-T/teoria/intro_requerimientos.md",
+    "Administracion_y_Gestion_de_Base_de_Datos/1_Semana-T/teoria/diagramaDeClases.md",
+    "Administracion_y_Gestion_de_Base_de_Datos/1_Semana-T/teoria/DiagramaDeCasoDeUso.md",
+    "Administracion_y_Gestion_de_Base_de_Datos/1_Semana-T/teoria/notas_martes.md",
+    "Tarea_Actual.md",
+    "Tareas_Actuales.md",
+    "Catedra_UNAB/1_Semana-T/tarea/Tarea Principal.md",
+    "Catedra_UNAB/1_Semana-T/tarea/Adjuntos/Pasted image 20260411144524.png",
+    "Ingenieria_de_Requerimientos/1_Semana-T/tarea/Tareas_Dia2.md",
+    "Ingenieria_de_Requerimientos/1_Semana-T/tarea/resumen_Tarea.md",
+    "Ingenieria_de_Requerimientos/1_Semana-T/tarea/Adjuntos/Pasted image 20260411142556.png",
     "Ingenieria_de_Requerimientos/semana_1/tarea/Tarea_3.md",
     "Ingenieria_de_Requerimientos/1_Semana/teoria/Adjuntos/Pasted image 20260407171817.png",
     "Ingenieria_de_Requerimientos/1_Semana/teoria/Adjuntos/Pasted image 20260407171203.png",
     "Ingenieria_de_Requerimientos/1_Semana/teoria/notas_martes.md",
     "Ingenieria_de_Requerimientos/1_Semana/teoria/intro_requerimientos.md",
     "Ingenieria_de_Requerimientos/1_Semana/teoria/diagramaDeClases.md",
-    "Ingenieria_de_Requerimientos/1_Semana/teoria/Adjuntos",
     "Ingenieria_de_Requerimientos/1_Semana/teoria/DiagramaDeCasoDeUso.md",
-    "Ingenieria_de_Requerimientos/1_Semana/teoria",
-    "Ingenieria_de_Requerimientos/1_Semana/tarea/Adjuntos/Pasted image 20260408195734.png",
     "Ingenieria_de_Requerimientos/1_Semana/tarea/Tarea_3.md",
     "Ingenieria_de_Requerimientos/1_Semana/tarea/Tareas_Dia2.md",
     "Ingenieria_de_Requerimientos/1_Semana/tarea/resumen_Tarea.md",
-    "Ingenieria_de_Requerimientos/1_Semana/tarea/Adjuntos",
-    "Ingenieria_de_Requerimientos/1_Semana/tarea",
-    "Ingenieria_de_Requerimientos/1_Semana/PDF/Scrum_v5.pdf",
-    "Ingenieria_de_Requerimientos/1_Semana/PDF/IRSemana01.pdf",
-    "Ingenieria_de_Requerimientos/1_Semana/PDF",
-    "Ingenieria_de_Requerimientos/1_Semana/img/Captura de pantalla 2026-04-07 165606.png",
-    "Ingenieria_de_Requerimientos/1_Semana/img/I1.png",
-    "Ingenieria_de_Requerimientos/1_Semana/img/diagrama_de_caso_de_uso.png",
-    "Ingenieria_de_Requerimientos/1_Semana/img/Captura de pantalla 2026-04-07 165610.png",
-    "Ingenieria_de_Requerimientos/1_Semana/img",
-    "Electrónica/16_Semana",
-    "Electrónica/15_Semana",
-    "Ingenieria_de_Requerimientos/semana_1/tarea/Adjuntos/Pasted image 20260408195734.png",
     "Taller_de_Programacion/Semana1/Teoria/Teoria.md",
     "Taller_de_Programacion/Semana1/Python/clase.md",
-    "semana_1/teoria/Adjuntos/Pasted image 20260407171817.png",
-    "semana_1/teoria/Adjuntos/Pasted image 20260407171203.png",
     "semana_1/teoria/DiagramaDeCasoDeUso.md"
   ]
 }
